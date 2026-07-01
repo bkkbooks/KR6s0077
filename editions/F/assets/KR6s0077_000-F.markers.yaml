@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR6s0077/F/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: line-break, offset: 0, content: '', id: KR6s0077_F_000-0385a08, ed: F, 'n': 0385a08}
+  - {type: line-break, offset: 0, content: '', id: KR6s0077_F_000-0385a09, ed: F, 'n': 0385a09}
+  body: []
+  back: []
+hash: sha256:9b2261e89a5bbd768569bcf4fb82e9c8e7ff0517253da795cfd8bddf91a836ca

@@ -1,0 +1,69 @@
+canonical_identifier: bkk:krp/KR6s0077/v1
+canonical_location: https://kanripo.org/bkk/KR6s0077/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 無上玉皇心印經
+  identifiers:
+    alt_id:
+    - F29n1099
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F29/F29n1099.xml
+    old_id: F29n1099
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0077_000.yaml, hash: 'sha256:d71d65ffd86111d8e525df6dbeb6770871ff511a4bdbc679fdff239e72d0ec70'}
+  - {seq: 1, filename: KR6s0077_001.yaml, hash: 'sha256:c15763e71daea3584c86d0b1ffcf414a8d15c16c527bccaeb0502fe584ddc6f8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0077_001.markers.yaml, hash: 'sha256:8f972a040a8f9a65206089bcb46fd027d8ea79f1bcb0104326d75e235b21b927'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0077_F_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 無上玉皇心印經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0077_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 567
+  label: 無上玉皇心印經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0077_F_001-mulu-1
+    span:
+    - body
+    - 197
+    - 197
+  label: 傳經始流
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0077_F_001-mulu-2
+    span:
+    - body
+    - 420
+    - 420
+  label: 同盟助貲
+  type: mulu
+  level: 1
+hash: sha256:ec6a825cab615886d1f3b7e850f5f30ea91b65d0641d163ebbdecf3cdad9eed3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: F

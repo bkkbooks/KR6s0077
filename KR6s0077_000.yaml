@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6s0077/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 無上玉皇心印經, id: KR6s0077_F_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無上玉皇心印經
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F29/F29n1099.xml
+    old_id: F29n1099
+hash: sha256:d71d65ffd86111d8e525df6dbeb6770871ff511a4bdbc679fdff239e72d0ec70
